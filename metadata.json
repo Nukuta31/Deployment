@@ -1,0 +1,6 @@
+{
+  "name": "Keyword Content Downloader",
+  "description": "An offline-ready content downloader where users query keywords, fetch URL lists, and download content with live transfer progress saving in local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
